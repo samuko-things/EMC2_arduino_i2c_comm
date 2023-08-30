@@ -1,0 +1,16 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EMC2_arduino_i2c_comm KEYWORD1
+EMC2ArduinoI2cCommApi KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendTargetVel KEYWORD2
+getMotorsPos  KEYWORD2
+getMotorsVel  KEYWORD2
+getMotorAData KEYWORD2
+getMotorBData KEYWORD2
