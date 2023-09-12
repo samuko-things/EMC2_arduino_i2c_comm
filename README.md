@@ -17,8 +17,7 @@ A simple way to get started is simply to try out and follow the example code
   > e.g on windows: ... Documents/Arduino/libraries/
 
 - start your ArduinoIDE and navigate to examples and run the example code and see how the motors behave.
-  > ![PIC1](https://github.com/samuko-things/EMC2_arduino_i2c_comm/blob/main/doc/pic1.png) 
-  > ![PIC1](./doc/pic1.png)
+  > ![PIC1](./docs/pic1.png)
 
 - you can copy this example code into your project and modify it to your taste.
 
